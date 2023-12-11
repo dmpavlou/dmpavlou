@@ -1,0 +1,4 @@
+- 👋 Hi, I’m Dimitra!
+- 👀 I’m interested in sound and music software
+- 🌱 I’m currently learning C++
+- 📫 linkedin: https://www.linkedin.com/in/dimitra-maria-pavlou-37380b246/
